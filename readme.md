@@ -8,16 +8,35 @@
 <br>
 
 <p align="center">
-	<b>:imp: Pretendo realizar un proyecto naciente, similar a "Awesome Lists" pero en su versión española, enlazando a documentación y blogs de habla hispana :seedling:</b>
-	<b> Votar al proyecto "Awesome" en<a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
-</p>
- <p>
-     <b>:ghost:Veremos si la paciencia da para ello :ghost:</b>
-     <b>..y si surge el apoyo necesario :see_no_evil:</b>
- </p>
+	<b>:imp: Pretendo lanzar un proyecto similar a "Awesome Lists" pero en versión española.</p>
 <p align="center">
-	<b>✨ Seguimiento RSS del proyecto original <a href="https://awesomeweekly.co">"Awesome Lists"</a> en inglés! ✨</b>
-	<b> Votar al proyecto "Awesome" en<a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
+    <b>:seedling: Enlazando a documentación y blogs de habla hispana :seedling:</b></b>
+</p>
+<p align="center">
+    <b>:seedling: Se que muchas personas no lo creerán necesario. Más pienso que existe mucha y muy buena documentación en español como para desear amasarla en un gran proyecto; y así facilitarnos el trabajo a todos :innocent:</b>
+</p>
+
+<br>
+
+<p align="center">
+    <b>Me llamo enormemente la atención que no existiese ya algo similar.</b>
+</p>
+
+ <p align="center">
+     <b>:ghost: Veremos si la paciencia da para llevarlo acabo :ghost:</b>
+     <b>:see_no_evil: ..y si surge el apoyo necesario :see_no_evil:</b>
+ </p>
+ 
+ <br>
+ 
+ ---
+<p align="center">
+	<b>✨ Seguimiento vía RSS del proyecto original <a href="https://awesomeweekly.co">"Awesome Lists"</a> en inglés! ✨</b>
+	<b> Votar al proyecto "Awesome" en<a href="https://www.producthunt.com/posts/awesome-weekly"> Product Hunt</a></b>
+</p>
+<p align="center">
+<b>Agradecimientos desde ya, al creador <a href="https://github.com/sindresorhus/">"@sindresorhus"</a> y a todos los <a href="https://github.com/sindresorhus/awesome/graphs/contributors">Contribuidores</a>  del proyecto original.</b>
+	<b> Ojalá, se pudiese lograr que participase una mínima parte de la comunidad española en GitHub en la "versión española". </a></b>
 </p>
 
 <br>
