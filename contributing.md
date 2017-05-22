@@ -43,8 +43,9 @@ Necesitas una [GitHub cuenta](https://github.com/join)!
 2. Click en el archivo `readme.md`: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
 3. Ahora haz click sobre el icono de edición. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
 4. Puedes comenzar a editar el archivo en el editor del navegador. Asegurate de seguir las instruccions anteriormente indicadas, Puedes usar [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
-5. Di porque propones los cambios, y a continuación "Proponer cambios en el archivo". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
+5. Di porque propones los cambios, y a continuación "Proponer cambios en el archivo". 
+![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
+6. Envía tu [pull request](https://help.github.com/articles/using-pull-requests/)!
 
 ## Presenta tu 'Pull Request'
 
