@@ -8,22 +8,33 @@
 <br>
 
 <p align="center">
-	<b>:imp: Pretendo lanzar un proyecto similar a "Awesome Lists" pero en versión española.</p>
+    <b>:imp: Pretendo ver nacer :seedling::seedling::seedling: un proyecto similar a "Awesome Lists" :imp:</b>
+</p>
+<p align="center">
+    <b>más en Versión Española</b>
+</p>
 <p align="center">
     <b>:seedling: Enlazando a documentación y blogs de habla hispana :seedling:</b></b>
 </p>
 <p align="center">
-    <b>:seedling: Se que muchas personas no lo creerán necesario. Más pienso que existe mucha y muy buena documentación en español como para desear amasarla en un gran proyecto; y así facilitarnos el trabajo a todos :innocent:</b>
+    <b>:seedling: Se que muchas personas no lo creerán necesario. :innocent::innocent::innocent:</b>
 </p>
-
+<p align="center">
+    <b>Más pienso que existe mucha y muy buena documentación en español como para necesitar amasarla en un gran proyecto; y así facilitarnos el trabajo a todos :sweat_smile:</b>
+</p>
+<p align="center">
+    <b>Entre eso y la locura en la que se convierten mis marcadores.. :scream:</b>
+</p>
 <br>
 
 <p align="center">
-    <b>Me llamo enormemente la atención que no existiese ya algo similar.</b>
+    <b>Me extraña enormemente que no exista un proyecto similar :eyes:</b>
 </p>
 
  <p align="center">
      <b>:ghost: Veremos si la paciencia da para llevarlo acabo :ghost:</b>
+ </p>
+ <p align="center">
      <b>:see_no_evil: ..y si surge el apoyo necesario :see_no_evil:</b>
  </p>
  
@@ -61,34 +72,36 @@
 
 - [Plataformas](#plataformas)
 - [Lenguajes De Programación](#lenguajes-de-programación)
-- [Front-End Desarrolladores](#front-end-development)
-- [Back-End Desarrolladores](#back-end-development)
-- [Ciencia De La Computación](#computer-science)
+- [Desarrolladores Front-End](#front-end-development)
+- [Desarrolladores Back-End](#back-end-development)
+- [Ciencias de la Computación](#ciencias-de-la-computacion)
 - [Big Data](#big-data)
-- [Teoría](#theory)
+- [Teoría](#teoria)
 - [Libros](#libros)
-- [Editors](#editors)
-- [Gaming](#gaming)
-- [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
-- [Databases](#databases)
+- [Editores](#editores)
+- [Juegos](#juegos)
+- [Entornos De Desarrollo](#entornos-de-desarrollo)
+- [Entretenimiento](#entretenimiento)
+- [Bases De Datos](#bases-de-datos)
 - [Media](#media)
-- [Learn](#learn)
-- [Security](#security)
-- [Content Management Systems](#content-management-systems)
+- [Aprender](#aprender)
+- [Seguridad](#seguridad)
+- [Sistemas de Gestión de Contenidos - CMS](#sistemas-de-gestion-de-contenidos)
 - [Hardware](#hardware)
-- [Business](#business)
+- [Negocio](#negocio)
 - [Flujo De Trabajo](#flujo-de-trabajo)
-- [Networking](#networking)
-- [Miscellaneous](#miscellaneous)
+- [Redes](#redes)
+- [Varios](#varios)
 
 
 ## Plataformas
 
 ## Lenguajes De Programación
+## Desarrolladores Front-End
+## Desarrolladores Back-End
 
-## License
+## Licencia
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+En la medida que lo permita la ley, [Sindre Sorhus](http://sindresorhus.com) ha renunciado a todos los derechos de autor y derechos afines o vecinos para este trabajo; y [DpdC](http://pabloalvarezcorredera.com) también.
