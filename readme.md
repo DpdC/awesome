@@ -8,8 +8,16 @@
 <br>
 
 <p align="center">
-	<b>✨ Prelanzamiento de <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
-	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
+	<b>:imp: Pretendo realizar un proyecto naciente, similar a "Awesome Lists" pero en su versión española, enlazando a documentación y blogs de habla hispana :seedling:</b>
+	<b> Votar al proyecto "Awesome" en<a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
+</p>
+ <p>
+     <b>:ghost:Veremos si la paciencia da para ello :ghost:</b>
+     <b>..y si surge el apoyo necesario :see_no_evil:</b>
+ </p>
+<p align="center">
+	<b>✨ Seguimiento RSS del proyecto original <a href="https://awesomeweekly.co">"Awesome Lists"</a> en inglés! ✨</b>
+	<b> Votar al proyecto "Awesome" en<a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
 </p>
 
 <br>
