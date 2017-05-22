@@ -55,16 +55,16 @@
 ---
 
 <p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
+	<a href="awesome.md">Qué es "awesome list"?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Guía de Contribución</a>&nbsp;&nbsp;&nbsp;
+	<a href="create-list.md">Creando una lista</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.stickermule.com/marketplace/10034-awesome">Pegatinas</a>
 </p>
 
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	<sub>Solo escribe <a href="https://awesome.re"><code>awesome.re</code></a> para volver. Chequear sobre mi <a href="https://blog.sindresorhus.com">blog</a> y sígueme en <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 
 
