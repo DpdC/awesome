@@ -17,13 +17,13 @@
     <b>:seedling: Enlazando a documentación y blogs de habla hispana :seedling:</b></b>
 </p>
 <p align="center">
-    <b>:seedling: Se que muchas personas no lo creerán necesario. :innocent::innocent::innocent:</b>
+    <b>Se que muchas personas no lo creerán necesario. :innocent::innocent::innocent:</b>
 </p>
 <p align="center">
-    <b>Más pienso que existe mucha y muy buena documentación en español como para necesitar amasarla en un gran proyecto; y así facilitarnos el trabajo a todos :sweat_smile:</b>
+    <b>También sé, que no soy el único que se vuelve loco; intentando amasar toda la información existente :sweat_smile:</b>
 </p>
 <p align="center">
-    <b>Entre eso y la locura en la que se convierten mis marcadores.. :scream:</b>
+    <b> :scream: y que sus marcadores terminan convirtiendose en una locura.. :scream:</b>
 </p>
 <br>
 
@@ -71,34 +71,73 @@
 ## Contenidos
 
 - [Plataformas](#plataformas)
-- [Lenguajes De Programación](#lenguajes-de-programación)
-- [Desarrolladores Front-End](#front-end-development)
-- [Desarrolladores Back-End](#back-end-development)
+- [Lenguajes de Programación](#lenguajes-de-programación)
+- [Desarrolladores Front-End](#desarrolladores-front-end)
+- [Desarrolladores Back-End](#desarrolladores-back-end)
 - [Ciencias de la Computación](#ciencias-de-la-computacion)
 - [Big Data](#big-data)
 - [Teoría](#teoria)
 - [Libros](#libros)
 - [Editores](#editores)
 - [Juegos](#juegos)
-- [Entornos De Desarrollo](#entornos-de-desarrollo)
+- [Entornos de Desarrollo](#entornos-de-desarrollo)
 - [Entretenimiento](#entretenimiento)
-- [Bases De Datos](#bases-de-datos)
+- [Bases de Datos](#bases-de-datos)
 - [Media](#media)
 - [Aprender](#aprender)
 - [Seguridad](#seguridad)
-- [Sistemas de Gestión de Contenidos - CMS](#sistemas-de-gestion-de-contenidos)
+- [Sistemas de Gestión de Contenidos - CMS](#sistemas-de-gestion-de-contenidos-cms)
 - [Hardware](#hardware)
 - [Negocio](#negocio)
-- [Flujo De Trabajo](#flujo-de-trabajo)
+- [Flujo de Trabajo](#flujo-de-trabajo)
 - [Redes](#redes)
 - [Varios](#varios)
 
 
 ## Plataformas
 
-## Lenguajes De Programación
+## Lenguajes de Programación
+
 ## Desarrolladores Front-End
+
 ## Desarrolladores Back-End
+
+## Ciencias de la Computación
+
+## Big Data
+
+## Teoría
+
+## Libros
+
+## Editores
+
+## Juegos
+
+## Entornos de Desarrollo
+
+## Entretenimiento
+
+## Bases de Datos
+
+## Media
+
+## Aprender
+
+## Seguridad
+
+## Sistemas de Gestión de Contenidos - CMS
+
+## Hardware
+
+## Negocio
+
+## Flujo de Trabajo
+
+## Redes
+
+## Varios
+
 
 ## Licencia
 
