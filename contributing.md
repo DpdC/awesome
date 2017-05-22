@@ -1,53 +1,54 @@
-# Contribution Guidelines
+# Guía de contribución
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Pro favor, ten en cuenta que este proyecto se publica con un [Código de Conducta del Contribuyente](code-of-conduct.md). Al participar en este proyecto usted acepta cumplir con sus términos.
 
-# The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.
+# Las 'pull request' deben tener un título útil. Pull requests con `Update readme.md` como título, serán cerradas de inmediato porque Yo estoy cansado de que nadie lea este documento. Por favor, lea atentamente toda la sección de: `Añadir a esta lista`.
 
-## Table of Contents
+## Tabla de Contenidos
 
-- [Adding to this list](#adding-to-this-list)
-- [Creating your own awesome list](#creating-your-own-awesome-list)
-- [Adding something to an awesome list](#adding-something-to-an-awesome-list)
-- [Updating your Pull Request](#updating-your-pull-request)
+- [Añadir a esta lista](#añadir-a-esta-lista)
+- [Creando tu propia lista 'awesome'](#creando-tu-propia-lista)
+- [Añadiendo algo más a una lista](#añadir-algo-a-una-lista)
+- [Actualizar tus 'Pull Request'](#actualizar-tus-pull-request)
 
-## Adding to this list
+## Añadir a esta lista
 
-Please ensure your pull request adheres to the following guidelines:
+Asegúrese de que su solicitud 'pull request' sigue las siguientes pautas:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
-- Make an individual pull request for each suggestion.
-- Use [title-casing](http://titlecapitalization.com) (AP style).
-- Use the following format: `[List Name](link)`
-- Link additions should be added to the bottom of the relevant category.
-- New categories or improvements to the existing categorization are welcome.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
+- Busca sugerencias anteriores antes, quizás pueda estar duplicada.
+- Asegúrese de que la lista sea útil antes de enviarla. Eso implica que posea suficiente contenido y cada artículo lleve una descripción correcta.
+- Haz una 'pull request' nueva para cada sugerencia.
+- Utiliza el formato: [capitalizar-título](http://titlecapitalization.com) (AP estilo).
+- Usa el siguiente formato: `[Nombre de Lista](enlace)`
+- Los enlaces adicionales deben agregarse al fondo de la categoría correspondiente.
+- Nuevas categorías o mejoras en la catalogación existente son bienvenidas.
+- Revisa tu ortografía y gramática.
+- Asegurate de que tu editor de texto está configurado para eliminar espacios en blanco.
+- Las 'pull request' y 'commit' deben tener un tiítulo útil.
+- La descripción del 'commit' debe contener un enlace al repositorio.
 
-Thank you for your suggestions!
+¡Gracias por tus sugerencias!
 
-## Creating your own awesome list
+## Creando tu propia lista 'awesome'
 
-To create your own list, check out the [instructions](create-list.md).
+Para crear su propia lista, chequea las [instructions](create-list.md).
 
-## Adding something to an awesome list
+## Añadiendo algo más a una lista
 
-If you have something awesome to contribute to an awesome list, this is how you do it.
+Si tienes algo impresionante para contribuir a una lista impresionante, así es como debes hacer.
 
-You'll need a [GitHub account](https://github.com/join)!
+Necesitas una [GitHub cuenta](https://github.com/join)!
 
-1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
-3. Now click on the edit icon. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
+1. Accede a la página Github de la 'Awesome' lista. Por ejemplo: https://github.com/sindresorhus/awesome
+2. Click en el archivo `readme.md`: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
+3. Ahora haz click sobre el icono de edición. ![Step 3 - Click on Edit](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
+4. Puedes comenzar a editar el archivo en el editor del navegador. Asegurate de seguir las instruccions anteriormente indicadas, Puedes usar [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). ![Step 4 - Edit the file](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
+5. Di porque propones los cambios, y a continuación "Proponer cambios en el archivo". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
-## Updating your Pull Request
+## Presenta tu 'Pull Request'
 
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
+A veces, un mantenedor de una lista impresionante le pedirá que edite su 'Pull request' antes de que se incluye.
+Esto normalmente es debido a errores de ortografía o porque tu PR no concuerda con la lista o -* las pautas de las listas.
 
-[Here](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+[Aquí](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) están indicadas las diferentes formas de como modificar tu 'Pull Request'.
