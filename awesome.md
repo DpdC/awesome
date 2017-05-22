@@ -1,51 +1,50 @@
-# The awesome manifesto
+# El manifiesto "awesome"
 
-If you want your list to be included on `awesome`, try to only include actual awesome stuff in your list. After all, it's a curation, not a collection.
+Si deseas que tu lista sea incluida en `awesome`, trata de incluir solo cosas increíbles realmente. Después de todo, se trata de una curación, y no de una colección.
 
-But **what is awesome?**
+Pero **qué es Awesome?**
 
-## Only awesome is awesome
+## Solo impresionante es impresionante
 
-Research if the stuff you're including is actually awesome. Put only stuff on the list you or another contributor can personally recommend and rather leave stuff out than include too much.
+Investiga si el material que está incluido es impresionante. Pon solo en la lista lo que a ti o algún otro contribuyente pueda recomendar personalmente y es preferible que se dejen cosas fuera, antes de incluir demasiado.
 
-## Awesome badge
-
+## Awesome insignia
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Add an awesome badge to the top of your list, right to the title. [Example](https://github.com/sindresorhus/awesome-nodejs).
+Incluye una insignia Awesome en la parte superior de la lista, a la derecha del título. [Ejemplo](https://github.com/sindresorhus/awesome-nodejs).
 
 ```md
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ```
 
-## Comment on why something is awesome
+## Comenta sobre por qué te parece impresionante
 
-Apart from suggesting a particular item on your list, you should also inform your readers *why* it's on the list and how they will benefit from it.
+Aparte de incluir artículos en particular en su lista, también se debe informar a sus lectores por qué está en la lista y la forma en que se beneficiará de ella.
 
-## Make it clear what the list is about
+## Explica claro de lo que trata la lista
 
-Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject well enough.
+Adjunta una descripción en la parte superior del 'readme'. Asegurate de que su lista cubre un cierto rango y nada más. Enlace a otras listas impresionantes si piensas que cubren un tema relacionado lo suficientemente bien.
 
-## Pay attention to grammar
+## Presta atención a la gramática
 
-Ensure your list is grammatically correct, typo free and has no Markdown formatting errors. This should also apply to pull requests.
+Asegurate de que la lista está gramaticalmente correcta, libre de errores y que no tiene errores en el formato de 'Markdown'. Esto también debe aplicarse al realizar las 'pull requests'.
 
-## Choose an appropriate license
+## Busca una licencia apropiada
 
-Keep in mind that if you [haven't selected a license](http://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
+Ten en cuenta que si no [tienes seleccionada una licencia](http://choosealicense.com/no-license/), básicamente significa que la comunidad no podrá reproducir, distribuir o crear trabajos derivados.
 
-[Creative Commons licenses](https://creativecommons.org/) are perfect for this purpose. **We would recommend [`CC0`](https://creativecommons.org/publicdomain/zero/1.0/).** Code licenses like MIT, BSD, GPL, and so forth are not recommended.
+[Creative Commons licenses](https://creativecommons.org/) son perfectas para este propósito. **Recomendamos [`CC0`](https://creativecommons.org/publicdomain/zero/1.0/).** Licencias de código como MIT, BSD, GPL, y así sucesivamente no son recomendables.
 
-## Include contribution guidelines
+## Incluye guías de colaboración
 
-People who are contributing to your list should have a clear understanding how they should do so.
+Las personas que están participando en las listas deben tener una comprensión clara de cómo deben hacerlo.
 
-If you don't feel like writing one from scratch, feel free to take our [contributing.md](contributing.md) and modify it to your own needs.
+Si no tiene ganas de escribir unas pautas desde cero, sientete libre en usar nuestro documento [contributing.md](contributing.md) y modificarlo como necesites.
 
-## Stylize your list properly
+## Aplica los 'estilos' correctamente
 
-Create a [table of contents](https://github.com/sindresorhus/stuff/blob/master/toc-generators.md), organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
+Crea una [tabla de contenidos](https://github.com/sindresorhus/stuff/blob/master/toc-generators.md), organiza el contenido dentro de diferentes categorías, y utiliza imágenes si es adecuado. Asegurate de que todas las entradas son consistentes (e.j. todas las descripciones deben terminar en `.`).
 
-## Accept other people's opinion
+## Acepta la opinión de otras personas
 
-If you're an owner of the list, respect other people's opinion. If there are plenty of users not agreeing to your decision, give it a second thought.
+Si eres el propietario de una lista, respeta la opinión de otras personas. Si hay muchos usuarios que no están de acuerdo con tu decisión, recapacita sobre ello de nuevo.
