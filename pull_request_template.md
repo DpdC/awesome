@@ -1,48 +1,48 @@
 
-<!-- Congrats on creating an Awesome list! 🎉 -->
+<!-- Enhorabuena por crear una lista AWESOME! 🎉 -->
 
 
-<!-- Please fill in the below placeholders -->
+<!-- Por favor, sigue las siguientes indicaciones -->
 
-**[Insert URL to the list here]**
+**[Introduce la URL, aquí]**
 
-**[Explain what this list is about and why it should be included here]**
+**[Explica de que trata la lista y porque debe incluirse, aquí]**
 
 
-# By submitting this pull request I confirm I've read and complied with the below requirements.
+# Al envíar este 'pull request' Yo confirmo que he leído y cumplido con los siguientes requisitos.
 
-**Please read it multiple times. I spent a lot of time on these guidelines and most people miss a lot.**
+**Por favor, revisa este contenido varias veces. Pase mucho escribiendo estas pautas.**
 
-- I have read and understood the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) and the [instructions for creating a list](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
-- This pull request has a descriptive title.<br>For example, `Add Name of List`, not `Update readme.md` or `Add awesome list`.
-- The entry in the Awesome list should:
-	- Include a short description about the project/theme of the list. **It should not describe the list itself.**<br>Example: `- [Fish](…) - User-friendly shell.`, not `- [Fish](…) - Resources for Fish.`.
-	- Be added at the bottom of the appropriate category.
-- The list I'm submitting complies with these requirements:
-	- **Has been around for at least 30 days.**<br>That means 30 days from either the first real commit or when it was open-sourced. Whatever is most recent.
-	- It's the result of hard work and the best I could possibly produce.
-	- Non-generated Markdown file in a GitHub repo.
-	- **Includes a succinct description of the project/theme at the top of the readme.** [(Example)](https://github.com/willempienaar/awesome-quantified-self)
-	- The repo should have `awesome-list` & `awesome` as [GitHub topics](https://help.github.com/articles/about-topics). I encourage you to add more relevant topics.
-	- Not a duplicate.
-	- Only has awesome items. Awesome lists are curations of the best, not everything.
-	- Includes a project logo/illustration whenever possible.
-		- Placed at the top-right of the readme. [(Example)](https://github.com/sindresorhus/awesome-electron)
-		- The image should link to the project website or any relevant website.
-		- The image should be high-DPI. Set it to maximum half the width of the original image.
-	- Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
-	- Has the [Awesome badge](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-badge) on the right side of the list heading,
-	- Has a Table of Contents section.
-		- Should be named `Contents`, not `Table of Contents`.
-		- Should be the first section in the list.
-	- Has an [appropriate license](https://github.com/sindresorhus/awesome/blob/master/awesome.md#choose-an-appropriate-license).
-		- That means something like CC0, **not a code licence like MIT, BSD, Apache, etc.**
-		- If you use a license badge, it should be SVG, not PNG.
-	- Has [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/awesome.md#include-contribution-guidelines).
-		- The file should be named `contributing.md`. Casing is up to you.
-	- Has consistent formatting and proper spelling/grammar.
-		- Each link description starts with an uppercase character and ends with a period.<br>Example: `- [AVA](…) - JavaScript test runner.`
-		- Drop all the `A` / `An` prefixes in the descriptions.
-		- Consistent and correct naming. For example, `Node.js`, not `NodeJS` or `node.js`.
-	- Doesn't include a Travis badge.<br>You can still use Travis for list linting, but the badge has no value in the readme.
-- Go to the top and read it again.
+- Yo he leído y comprendido la [guía de contribución](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/contributing.md) y las [instrucciones para crear una lista](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/create-list.md).
+- Esta 'pull request' tiene un título descriptivo.<br>Por ejemplo, `Añadir Nombre de Lista`, no `Update readme.md` o `Añadir awesome list`.
+- La entrada en la lista Awesome debería:
+	- Incluir una breve descripción sobre el proyecto/tema de la lista. **No debe describir la lista en sí.**<br>Ejemplo: `- [Fish](…) - Shel amigable con el usuario.`, not `- [Fish](…) - Recurso de Fish.`.
+	- Se agrega al final de la categoría apropiada.
+- La lista que presento cumple con estos requisitos:
+	- **He estado revisandola al menos 30 días.**<br>Eso significa 30 días a partir del primer 'commit' real o ya fue de código abierto.
+	- Es el resultado de trabajo duro y lo mejor que pude producir.
+	- No he generado el archivo Markdown en un reporte de Github.
+	- **Incluye una descripción concreta del proyecto/tema en la parte superior del 'readme'.** [(Ejemplo)](https://github.com/willempienaar/awesome-quantified-self)
+	- El repositorio debería tener `awesome-list-spanish`, `awesome-list`, `awesome-spanish`, & `awesome` as [GitHub topics](https://help.github.com/articles/about-topics). Ánimo a añadir otros temas más relevantes.
+	- No es un duplicado.
+	- Solo tiene artículos impresionantes (AWESOME). Awesome lists incluye lo mejor, no todo.
+	- Incluye un logotipo del proyecto/ilustración siempre que sea posible.
+		- Situado en la parte superior derecha. [(Ejemplo)](https://github.com/sindresorhus/awesome-electron)
+		- La imagen debe enlazar al sitio web del proyecto o cualquier sitio web pertinente.
+		- La imagen debe poseer alto-DPI. Configurado a que ocupe como máximo la mitad del ancho de la imagen original.
+	- Las entradas tienen una descripción, a menos de que el título sea lo suficientemente descriptivo por si mismo.  unless the title is descriptive enough by itself. Lo que ocurre rara vez.
+	- Tiene el [Awesome badge](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/awesome.md#awesome-insignia) en el lado derecho del encabezado de la lista,
+	- Tiene una sección de Tabla de Contenidos.
+		- Debe denominarse `Contenidos`, no `Tabla de Contenidos`.
+		- Debe encontrarse en la primera sección de la lista.
+	- Posee una [licencia apropiada](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/awesome.md#busca-una-licencia-apropiada).
+		- Eso significa algo similar a CC0, **no una licencia de código como MIT, BSD, Apache, etc.**
+		- Si utiliza una placa de licencia, debería ser SVG, no PNG.
+	- Posee una [guía de contribuciones](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/contributing.md#guía-de-contribución).
+		- El archivo debe ser nombrado `contributing.md`. Mantener el formato depende de ti.
+	- Debe mantener un formato propio en la gramática y la ortografía.
+		- Cada descripción de enlace comienza con un carácter en mayúscula y termina con un punto.<br>Ejemplo: `- [AVA](…) - JavaScript test de funcionamiento.`
+		- Deja caer todos los `A` / `An` prefijos en las descripciones.
+		- Nombres coherentes y correctos. Por ejemplo, `Node.js`, no `NodeJS` or `node.js`.
+	- No incluye una insignia de Travies.<br>Puedes utilizar Travies para corregir la lista, pero la insignia no tiene valor en el readme.
+- Vamos a la parte superior y a leerlo de nuevo!
