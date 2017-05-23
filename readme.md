@@ -70,71 +70,71 @@
 
 ## Contenidos
 
-- [Plataformas](#plataformas)
-- [Lenguajes de Programación](#lenguajes-de-programación)
-- [Desarrolladores Front-End](#desarrolladores-front-end)
-- [Desarrolladores Back-End](#desarrolladores-back-end)
-- [Ciencias de la Computación](#ciencias-de-la-computación)
+- [Aprender](#aprender)
+- [Bases de Datos](#bases-de-datos)
 - [Big Data](#big-data)
-- [Teoría](#teoría)
-- [Libros](#libros)
-- [Editores](#editores)
-- [Juegos](#juegos)
+- [Ciencias de la Computación](#ciencias-de-la-computación)
+- [Desarrolladores Back-End](#desarrolladores-back-end)
+- [Desarrolladores Front-End](#desarrolladores-front-end)
+- [Editores de Texto](#editores)
 - [Entornos de Desarrollo](#entornos-de-desarrollo)
 - [Entretenimiento](#entretenimiento)
-- [Bases de Datos](#bases-de-datos)
+- [Flujo de Trabajo](#flujo-de-trabajo)
+- [Hardware](#hardware)
+- [Plataformas](#plataformas)
+- [Lenguajes de Programación](#lenguajes-de-programación)
+- [Juegos](#juegos)
+- [Libros](#libros)
 - [Media](#media)
-- [Aprender](#aprender)
+- [Negocio](#negocio)
+- [Redes](#redes)
 - [Seguridad](#seguridad)
 - [Sistemas de Gestión de Contenidos - CMS](#sistemas-de-gestión-de-contenidos-cms)
-- [Hardware](#hardware)
-- [Negocio](#negocio)
-- [Flujo de Trabajo](#flujo-de-trabajo)
-- [Redes](#redes)
+- [Teoría](#teoría)
 - [Varios](#varios)
 
 
-## Plataformas
+## Aprender
 
-## Lenguajes de Programación
-
-## Desarrolladores Front-End
-
-## Desarrolladores Back-End
-
-## Ciencias de la Computación
+## Bases de Datos
 
 ## Big Data
 
-## Teoría
+## Ciencias de la Computación
 
-## Libros
+## Desarrolladores Back-End
 
-## Editores
+## Desarrolladores Front-End
 
-## Juegos
+## Editores de Texto
 
 ## Entornos de Desarrollo
 
 ## Entretenimiento
 
-## Bases de Datos
+## Flujo de Trabajo
+
+## Hardware
+
+## Plataformas
+
+## Lenguajes de Programación
+
+## Juegos
+
+## Libros
 
 ## Media
 
-## Aprender
+## Negocio
+
+## Redes
 
 ## Seguridad
 
 ## Sistemas de Gestión de Contenidos - CMS
 
-## Hardware
-
-## Negocio
-
-## Flujo de Trabajo
-
-## Redes
+## Teoría
 
 ## Varios
 
