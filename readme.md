@@ -74,7 +74,7 @@
 
 ## Editores de Texto
 
-- [Enfocados en Java]()
+  * [Enfocados en Java]()
     -[Blue J](https://bluej.org/)
 - [Enfocados al Desarrollo Web]()
 - [En Línea]()
