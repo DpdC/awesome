@@ -6,9 +6,9 @@
 
 <br>
 <br>
-<p align="center">
+
 ¡¡¡Si deseas apoyar al proyecto, simplemente lee la [información](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/main-information.md#inicio), pasa por la documentación traducida:  [Lee el manifiesto de participación](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/awesome.md#el-manifiesto-awesome), [Comó contribuir](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/contributing.md), [Creando tu propia lista](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/create-list.md#crear-tu-propia-lista)y comienza a participar!!!
-</p>
+
  
  ---
 <p align="center">
@@ -94,7 +94,7 @@
 ## Libros
 
 - [Libros de Programación Libres de Javascript](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md#javascript)
-- [Libros de Programación Libres - Sobre Todo](https://github.com/vhf/free-programming-books/free-programming-books-es.md)
+- [Libros de Programación Libres - Un Poco de Todo](https://github.com/vhf/free-programming-books/free-programming-books-es.md)
 
 ## Media
 
