@@ -1,4 +1,7 @@
+## Inicio
 Comenzando con "awesome" en su versión española, por y para toda la comunidad de habla hispana. 
+
+## ¿Por qué?
 <p align="center">
    :imp: Pretendo ver nacer :seedling::seedling::seedling: un proyecto similar a "Awesome Lists" :imp:
 </p>
@@ -31,8 +34,9 @@ Comenzando con "awesome" en su versión española, por y para toda la comunidad 
  </p>
  
  <br>
- ___
  
-<p>Este es un gran trabajo de recopilación de información y recursos. Ojalá, una mínima parte de la Comunidad Hispana  en GitHub pueda ayudarme a desarrollar una versión hispana.<p></p>
+ _____
+ 
+<p>Este es un gran trabajo de recopilación de información y recursos. Ojalá, una mínima parte de la Comunidad Hispana  en GitHub pueda ayudarme a desarrollar una versión hispana.</p>
 
 <br>
