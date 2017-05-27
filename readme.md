@@ -6,51 +6,17 @@
 
 <br>
 <br>
-
 <p align="center">
-    <b>:imp: Pretendo ver nacer :seedling::seedling::seedling: un proyecto similar a "Awesome Lists" :imp:</b>
+¡¡¡Si deseas apoyar al proyecto, simplemente lee la [información](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/main-information.md#inicio), pasa por la documentación traducida:  [Lee el manifiesto de participación](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/awesome.md#el-manifiesto-awesome), [Comó contribuir](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/contributing.md), [Creando tu propia lista](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/create-list.md#crear-tu-propia-lista)y comienza a participar!!!
 </p>
-<p align="center">
-    <b>más en Versión Española</b>
-</p>
-<p align="center">
-    <b>:seedling: Enlazando a documentación y blogs de habla hispana :seedling:</b></b>
-</p>
-<p align="center">
-    <b>Se que muchas personas no lo creerán necesario. :innocent::innocent::innocent:</b>
-</p>
-<p align="center">
-    <b>También sé, que no soy el único que se vuelve loco; intentando amasar toda la información existente :sweat_smile:</b>
-</p>
-<p align="center">
-    <b> :scream: y que sus marcadores terminan convirtiendose en una locura.. :scream:</b>
-</p>
-<br>
-
-<p align="center">
-    <b>Me extraña enormemente que no exista un proyecto similar :eyes:</b>
-</p>
-
- <p align="center">
-     <b>:ghost: Veremos si la paciencia da para llevarlo acabo :ghost:</b>
- </p>
- <p align="center">
-     <b>:see_no_evil: ..y si surge el apoyo necesario :see_no_evil:</b>
- </p>
- 
- <br>
  
  ---
 <p align="center">
-	<b>✨ Seguimiento vía RSS del proyecto original <a href="https://awesomeweekly.co">"Awesome Lists"</a> en inglés! ✨</b>
-	<b> Votar al proyecto "Awesome" en<a href="https://www.producthunt.com/posts/awesome-weekly"> Product Hunt</a></b>
+	<b>✨ Seguimiento vía RSS del proyecto en su versión inglesa <a href="https://awesomeweekly.co">"Awesome Lists"</a> ✨</b>
+	<b> Apoya "Awesome" votándoles en<a href="https://www.producthunt.com/posts/awesome-weekly"> Product Hunt</a></b>
 </p>
-<p align="center">
-<b>Agradecimientos desde ya, al creador <a href="https://github.com/sindresorhus/">"@sindresorhus"</a> y a todos los <a href="https://github.com/sindresorhus/awesome/graphs/contributors">Contribuidores</a>  del proyecto original.</b>
-	<b> Ojalá, se pudiese lograr que participase una mínima parte de la comunidad española en GitHub en la "versión española". </a></b>
-</p>
-
-<br>
+ <p align="center">
+<b>Agradecimientos al creador de la idea original<a href="https://github.com/sindresorhus/">"@sindresorhus"</a> y a todos los <a href="https://github.com/sindresorhus/awesome/graphs/contributors">Contribuidores</a>  del proyecto original.</b>
 
 ---
 
