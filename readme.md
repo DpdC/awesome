@@ -4,10 +4,7 @@
 	<br>
 </h1>
 
-<br>
-<br>
-
-¡¡¡Si deseas apoyar al proyecto, simplemente lee la [información](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/main-information.md#inicio), pasa por la documentación traducida:  [Lee el manifiesto de participación](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/awesome.md#el-manifiesto-awesome), [Comó contribuir](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/contributing.md), [Creando tu propia lista](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/create-list.md#crear-tu-propia-lista)y comienza a participar!!!
+¡¡¡Si deseas apoyar al proyecto, simplemente lee la [información](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/main-information.md#inicio), pasa por la documentación traducida:  [Lee el manifiesto de participación](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/awesome.md#el-manifiesto-awesome), [Comó contribuir](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/contributing.md), [Creando tu propia lista](https://github.com/DpdC/awesome-in-spanish/blob/espanol-beta-1_0/create-list.md#crear-tu-propia-lista) y comienza a participar!!!
 
  
  ---
@@ -42,7 +39,7 @@
 - [Ciencias de la Computación](#ciencias-de-la-computación)
 - [Desarrolladores Back-End](#desarrolladores-back-end)
 - [Desarrolladores Front-End](#desarrolladores-front-end)
-- [Editores de Texto](#editores)
+- [Editores de Texto](#editores-de-texto)
 - [Entornos de Desarrollo](#entornos-de-desarrollo)
 - [Entretenimiento](#entretenimiento)
 - [Flujo de Trabajo](#flujo-de-trabajo)
@@ -77,6 +74,12 @@
 
 ## Editores de Texto
 
+- [Enfocados en Java]()
+- [Enfocados al Desarrollo Web]()
+- [En Línea]()
+- [Creados Para C#, C+, C#]
+- [Lo Más Minimalistas]()
+
 ## Entornos de Desarrollo
 
 ## Entretenimiento
@@ -93,8 +96,8 @@
 
 ## Libros
 
-- [Libros de Programación Libres de Javascript](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md#javascript)
-- [Libros de Programación Libres - Un Poco de Todo](https://github.com/vhf/free-programming-books/free-programming-books-es.md)
+- [Programación Libre Con Javascript](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md#javascript)
+- [Programación Libre Sobre Cualquier Lenguaje](https://github.com/vhf/free-programming-books/free-programming-books-es.md)
 
 ## Media
 
