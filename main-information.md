@@ -1,26 +1,26 @@
 Comenzando con "awesome" en su versión española, por y para toda la comunidad de habla hispana. 
 <p align="center">
-    <b>:imp: Pretendo ver nacer :seedling::seedling::seedling: un proyecto similar a "Awesome Lists" :imp:</b>
+   :imp: Pretendo ver nacer :seedling::seedling::seedling: un proyecto similar a "Awesome Lists" :imp:
 </p>
 <p align="center">
-    <b>más en Versión Española</b>
+   más en Versión Española
 </p>
 <p align="center">
     <b>:seedling: Enlazando a documentación y blogs de habla hispana :seedling:</b></b>
 </p>
 <p align="center">
-    <b>Se que muchas personas no lo creerán necesario. :innocent::innocent::innocent:</b>
+   Se que muchas personas no lo creerán necesario. :innocent::innocent::innocent:
 </p>
 <p align="center">
-    <b>También sé, que no soy el único que se vuelve loco; intentando amasar toda la información existente :sweat_smile:</b>
+   También sé, que no soy el único que se vuelve loco; intentando amasar toda la información existente :sweat_smile:
 </p>
 <p align="center">
-    <b> :scream: y que sus marcadores terminan convirtiendose en una locura.. :scream:</b>
+    :scream: y que sus marcadores terminan convirtiendose en una locura.. :scream:
 </p>
 <br>
 
 <p align="center">
-    <b>Me extraña enormemente que no exista un proyecto similar :eyes:</b>
+   Me extraña enormemente que no exista un proyecto similar :eyes:
 </p>
 
  <p align="center">
@@ -31,9 +31,8 @@ Comenzando con "awesome" en su versión española, por y para toda la comunidad 
  </p>
  
  <br>
- ____
-
-	<b> Este es un gran trabajo de recopilación de información y recursos. Ojalá, una mínima parte de la Comunidad Hispana  en GitHub pueda ayudarme a desarrollar una versión hispana. </a></b>
-</p>
+ ___
+ 
+<p>Este es un gran trabajo de recopilación de información y recursos. Ojalá, una mínima parte de la Comunidad Hispana  en GitHub pueda ayudarme a desarrollar una versión hispana.<p></p>
 
 <br>
