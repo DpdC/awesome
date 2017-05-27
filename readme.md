@@ -45,9 +45,10 @@
 - [Flujo de Trabajo](#flujo-de-trabajo)
 - [Hardware](#hardware)
 - [Plataformas](#plataformas)
-- [Lenguajes de Programación](#lenguajes-de-programación)
 - [Juegos](#juegos)
+- [Lenguajes de Programación](#lenguajes-de-programación)
 - [Libros](#libros)
+- [Librerías De Programación](#librerías-de-programación)
 - [Media](#media)
 - [Negocio](#negocio)
 - [Redes](#redes)
@@ -60,7 +61,8 @@
 ## Aprender en Línea
 
 - [Javascript](https://github.com/DpdC/learn-javascript-spanish#aprendiendo-javascript-en-español---)
-
+- [JQuery]
+  *[Manual Hispano](http://mundosica.github.io/tutorial_hispano_jQuery/)
 
 ## Bases de Datos
 
@@ -69,19 +71,36 @@
 ## Ciencias de la Computación
 
 ## Desarrolladores Back-End
+ * [Docker](https://github.com/brunocascio/docker-espanol#docker)
 
 ## Desarrolladores Front-End
 
-## Editores de Texto
+## Editores de Texto & IDE´s
 
-  * [Enfocados en Java]()
-    -[Blue J](https://bluej.org/)
-- [Enfocados al Desarrollo Web]()
-- [En Línea]()
-- [Creados Para C#, C+, C#]
-- [Lo Más Minimalistas]()
+* [Enfocados en Java]()
+  * [Blue J](https://bluej.org/)
+* [Enfocados al Desarrollo Web]()
+  * [Atom](https://atom.io/)
+  * [Brackets](http://brackets.io/) - Magnífico editor, enfocado en los diseñadores web.
+  * [Visual Studio Code](https://code.visualstudio.com/)
+  * [LightTable](https://github.com/LightTable/LightTable)
+  * [Blue J](https://bluej.org/)
+* [En Línea](https://github.com/DpdC/editores-online#editores-en-línea--online--versión-web--)
+* [Creados Para C#, C+, C#]
+* [IDE´s Multiplataforma]
+  * [Visual Studio Community](https://www.visualstudio.com/vs/community/)
+* Los De Siempre
+  * [Notepad+++](https://notepad-plus-plus.org/)
+* [Lo Más Minimalistas]()
+  * [Caja Blanca](https://write-box.appspot.com/) Cien por cien minimalista.
+  * [EtherPad](https://yourpart.eu/) Hoja En Blanco. 
 
 ## Entornos de Desarrollo
+
+* [Git Guía Sencilla y Rápida](http://rogerdudler.github.io/git-guide/index.es.html) - Útil y llamativa Guía, para comenzar aprendiendo de forma dinámica.
+* [Git Diapositivas Básicas](https://github.com/StudentTechClubAsturias/TallerGitBasico/blob/master/slides.pdf)
+* [Git Inmersión](http://esparta.github.io/gitimmersion-spanish/) - Extensa documentación y descripción de todas sus características.
+* [GitHub Simple](https://github.com/MrOutis/GitHub-Simple)
 
 ## Entretenimiento
 
@@ -91,14 +110,34 @@
 
 ## Plataformas
 
+## Juegos
+
 ## Lenguajes de Programación
 
-## Juegos
+* [Elixir](https://github.com/AlexMaguey/Elixir-Tutorial) - Breve Tutorial
+* [Django](http://djangotutorial.readthedocs.io/es/1.8/) - Guía Online y PDF de descarga. 
+* [Python](https://github.com/PyAr/tutorial) - Guía Online y PDF de descarga. 
+* [Ruby](http://rubysur.org/aprende.a.programar/) - Documentación web - Aprende a Programar.
+* [.NET]
+  *[NUnit](https://github.com/marcel-valdez/tutorial_nunit#tutorial-de-nunit) Tutorial JUnit, Framework para pruebas unitarias en los lenguajes .Net
+
+## Librerías De Programación
+
+- Javascript
+  * [D3]
+    * [AngularJS Phonecat](https://github.com/miguelmaquino/phonecat-es)
+    * [Web de D3](http://gcoch.github.io/D3-tutorial/) - Web muy completa de tutoriales sobre D3 y SVG.
+    * [Introducción a Javascript y D3.js](https://github.com/palamago/intro-js-d3)
+- Python
+  * [Framework Kivy - Tutorial](https://github.com/erknrio/kivy-tutorial/wiki/Kivy-Interfaz-Grid)
 
 ## Libros
 
 - [Programación Libre Con Javascript](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md#javascript)
 - [Programación Libre Sobre Cualquier Lenguaje](https://github.com/vhf/free-programming-books/free-programming-books-es.md)
+- [97 cosas que todo programador debería saber](97 cosas que todo programador debería saber)
+- [97 cosas que todo Project Manager debería saber](https://github.com/esparta/97cosas)
+- [97 cosas que todo Arquitecto de Software debería saber](https://github.com/esparta/97cosas)
 
 ## Media
 
