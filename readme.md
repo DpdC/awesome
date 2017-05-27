@@ -70,7 +70,7 @@
 
 ## Contenidos
 
-- [Aprender](#aprender)
+- [Aprender en Línea](#aprender-en-línea)
 - [Bases de Datos](#bases-de-datos)
 - [Big Data](#big-data)
 - [Ciencias de la Computación](#ciencias-de-la-computación)
@@ -94,7 +94,10 @@
 - [Varios](#varios)
 
 
-## Aprender
+## Aprender en Línea
+
+- [Javascript](https://github.com/DpdC/learn-javascript-spanish#aprendiendo-javascript-en-español---)
+
 
 ## Bases de Datos
 
@@ -123,6 +126,9 @@
 ## Juegos
 
 ## Libros
+
+- [Libros de Programación Libres de Javascript](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md#javascript)
+- [Libros de Programación Libres - Sobre Todo](https://github.com/vhf/free-programming-books/free-programming-books-es.md)
 
 ## Media
 
