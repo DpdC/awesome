@@ -136,7 +136,7 @@
 
 * [Programación Libre Con Javascript](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md#javascript)
 * [Programación Libre Sobre Cualquier Lenguaje](https://github.com/vhf/free-programming-books/free-programming-books-es.md)
-* [97 cosas que todo programador debería saber](97 cosas que todo programador debería saber)
+* [97 cosas que todo programador debería saber](https://github.com/esparta/97cosas)
 * [97 cosas que todo Project Manager debería saber](https://github.com/esparta/97cosas)
 * [97 cosas que todo Arquitecto de Software debería saber](https://github.com/esparta/97cosas)
 
