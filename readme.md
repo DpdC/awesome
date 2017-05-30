@@ -60,6 +60,8 @@
 
 ## Aprender en Línea
 
+* Formación Profesional Grado Medio - Sistemas MicroInformáticos & Redes
+* Formación Profesional Grado Superior - Desarrollo de Aplicaciones Web 'DAW'
 * [Javascript](https://github.com/DpdC/learn-javascript-spanish#aprendiendo-javascript-en-español---)
 * JQuery
   * [Manual Hispano](http://mundosica.github.io/tutorial_hispano_jQuery/)
@@ -154,6 +156,7 @@
 
 ## Varios
 
+---
 
 ## Licencia
 
