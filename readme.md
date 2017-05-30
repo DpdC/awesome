@@ -39,7 +39,7 @@
 - [Ciencias de la Computación](#ciencias-de-la-computación)
 - [Desarrolladores Back-End](#desarrolladores-back-end)
 - [Desarrolladores Front-End](#desarrolladores-front-end)
-- [Editores de Texto](#editores-de-texto)
+- [Editores de Texto](#editores-de-texto-e-ide)
 - [Entornos de Desarrollo](#entornos-de-desarrollo)
 - [Entretenimiento](#entretenimiento)
 - [Flujo de Trabajo](#flujo-de-trabajo)
@@ -60,9 +60,9 @@
 
 ## Aprender en Línea
 
-- [Javascript](https://github.com/DpdC/learn-javascript-spanish#aprendiendo-javascript-en-español---)
-- [JQuery]
-  *[Manual Hispano](http://mundosica.github.io/tutorial_hispano_jQuery/)
+* [Javascript](https://github.com/DpdC/learn-javascript-spanish#aprendiendo-javascript-en-español---)
+* JQuery
+  * [Manual Hispano](http://mundosica.github.io/tutorial_hispano_jQuery/)
 
 ## Bases de Datos
 
@@ -75,19 +75,16 @@
 
 ## Desarrolladores Front-End
 
-## Editores de Texto & IDE´s
+## Editores de Texto y Entornos de Desarrollo Integrados
 
-* [Enfocados en Java]()
-  * [Blue J](https://bluej.org/)
 * [Enfocados al Desarrollo Web]()
   * [Atom](https://atom.io/)
   * [Brackets](http://brackets.io/) - Magnífico editor, enfocado en los diseñadores web.
   * [Visual Studio Code](https://code.visualstudio.com/)
   * [LightTable](https://github.com/LightTable/LightTable)
-  * [Blue J](https://bluej.org/)
 * [En Línea](https://github.com/DpdC/editores-online#editores-en-línea--online--versión-web--)
 * [Creados Para C#, C+, C#]
-* [IDE´s Multiplataforma]
+* IDE´s Multiplataforma
   * [Visual Studio Community](https://www.visualstudio.com/vs/community/)
 * Los De Siempre
   * [Notepad+++](https://notepad-plus-plus.org/)
@@ -97,10 +94,14 @@
 
 ## Entornos de Desarrollo
 
-* [Git Guía Sencilla y Rápida](http://rogerdudler.github.io/git-guide/index.es.html) - Útil y llamativa Guía, para comenzar aprendiendo de forma dinámica.
-* [Git Diapositivas Básicas](https://github.com/StudentTechClubAsturias/TallerGitBasico/blob/master/slides.pdf)
-* [Git Inmersión](http://esparta.github.io/gitimmersion-spanish/) - Extensa documentación y descripción de todas sus características.
-* [GitHub Simple](https://github.com/MrOutis/GitHub-Simple)
+* IDE / Entornos de Desarrollo Integrado
+  * [Blue J](https://bluej.org/) - Entorno de Desarrollo Java gratuito diseñado para principiantes.
+* GIT
+  * [Git Guía Sencilla y Rápida](http://rogerdudler.github.io/git-guide/index.es.html) - Útil y llamativa Guía, para comenzar aprendiendo de forma dinámica.
+  * [Git Diapositivas Básicas](https://github.com/StudentTechClubAsturias/TallerGitBasico/blob/master/slides.pdf)
+  * [Git Inmersión](http://esparta.github.io/gitimmersion-spanish/) - Extensa documentación y descripción de todas sus características.
+* GITHUB
+  * [GitHub Simple](https://github.com/MrOutis/GitHub-Simple)
 
 ## Entretenimiento
 
@@ -123,21 +124,21 @@
 
 ## Librerías De Programación
 
-- Javascript
+* Javascript
   * [D3]
     * [AngularJS Phonecat](https://github.com/miguelmaquino/phonecat-es)
     * [Web de D3](http://gcoch.github.io/D3-tutorial/) - Web muy completa de tutoriales sobre D3 y SVG.
     * [Introducción a Javascript y D3.js](https://github.com/palamago/intro-js-d3)
-- Python
+* Python
   * [Framework Kivy - Tutorial](https://github.com/erknrio/kivy-tutorial/wiki/Kivy-Interfaz-Grid)
 
 ## Libros
 
-- [Programación Libre Con Javascript](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md#javascript)
-- [Programación Libre Sobre Cualquier Lenguaje](https://github.com/vhf/free-programming-books/free-programming-books-es.md)
-- [97 cosas que todo programador debería saber](97 cosas que todo programador debería saber)
-- [97 cosas que todo Project Manager debería saber](https://github.com/esparta/97cosas)
-- [97 cosas que todo Arquitecto de Software debería saber](https://github.com/esparta/97cosas)
+* [Programación Libre Con Javascript](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md#javascript)
+* [Programación Libre Sobre Cualquier Lenguaje](https://github.com/vhf/free-programming-books/free-programming-books-es.md)
+* [97 cosas que todo programador debería saber](97 cosas que todo programador debería saber)
+* [97 cosas que todo Project Manager debería saber](https://github.com/esparta/97cosas)
+* [97 cosas que todo Arquitecto de Software debería saber](https://github.com/esparta/97cosas)
 
 ## Media
 
